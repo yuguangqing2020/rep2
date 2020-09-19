@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ying yong wang qiang 
 
 我们 是共产主义接班人
 
 445566
 dddd
+=======
+在小乌龟中进行测试
+>>>>>>> bac2e0ee486cf59723bd900c4da8ebfa823ff038
