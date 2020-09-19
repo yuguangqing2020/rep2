@@ -33,6 +33,8 @@ public class DemoApplication {
             int result = clientPreparedStatement.executeUpdate();
         } catch (Exception ex) {
 
+            /////
+
         }
 
         return responseModel;
